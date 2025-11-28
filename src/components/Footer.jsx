@@ -26,8 +26,8 @@ export default function Footer() {
       <div className="container footer-top">
         <div className="footer-brand">
           <div className="brand">
-            <span className="brand-mark">N</span>
-            NovaPay
+            <span className="brand-mark">R</span>
+            RazorPay
           </div>
           <p className="text-muted">A unified money movement platform for the fastest growing companies.</p>
         </div>
@@ -45,7 +45,7 @@ export default function Footer() {
       </div>
 
       <div className="container sub-footer">
-        <div className="text-muted">© {new Date().getFullYear()} NovaPay Labs. All rights reserved.</div>
+        <div className="text-muted">© {new Date().getFullYear()} RazorPay Labs. All rights reserved.</div>
         <div className="socials" aria-label="Social links">
           <span aria-hidden="true">in</span>
           <span aria-hidden="true">𝕏</span>

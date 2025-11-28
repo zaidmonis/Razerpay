@@ -25,7 +25,7 @@ export default function Features() {
     <section id="payments">
       <div className="container">
         <div className="section-header">
-          <h2>Why businesses choose NovaPay</h2>
+          <h2>Why businesses choose RazorPay</h2>
           <p>Everything you need to operate, scale, and delight customers with payments.</p>
         </div>
         <div className="features-grid">

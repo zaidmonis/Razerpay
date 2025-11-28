@@ -14,7 +14,7 @@ export default function Hero() {
         <span className="badge">Trusted fintech stack</span>
         <h1>Modern payments infrastructure for ambitious businesses</h1>
         <p>
-          NovaPay unifies online payments, automated payouts, and real-time intelligence so your
+          RazorPay unifies online payments, automated payouts, and real-time intelligence so your
           revenue engine never slows down.
         </p>
         <div className="hero-actions">

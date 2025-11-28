@@ -18,8 +18,8 @@ export default function Navbar() {
     <header className="navbar">
       <div className="container navbar-inner">
         <a href="#top" className="brand" onClick={handleLinkClick}>
-          <span className="brand-mark">N</span>
-          NovaPay
+          <span className="brand-mark">R</span>
+          RazorPay
         </a>
 
         <nav className="nav-links" aria-label="Main navigation">

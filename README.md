@@ -1,6 +1,6 @@
-# NovaPay Landing Page
+# RazorPay Landing Page
 
-A single-page, Razorpay-inspired fintech landing page built with React and Vite. The design focuses on a clean, modern aesthetic with responsive layouts for mobile, tablet, and desktop.
+A single-page, RazorPay-inspired fintech landing page built with React and Vite. The design focuses on a clean, modern aesthetic with responsive layouts for mobile, tablet, and desktop.
 
 ## Tech Stack
 - React (functional components & hooks)

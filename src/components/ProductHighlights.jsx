@@ -37,7 +37,7 @@ export default function ProductHighlights() {
       <div className="container">
         <div className="section-header">
           <h2>Products built for every revenue team</h2>
-          <p>Switch between products to see how NovaPay adapts to your workflows.</p>
+          <p>Switch between products to see how RazorPay adapts to your workflows.</p>
         </div>
         <div className="highlights">
           <div className="tab-list" role="tablist">
