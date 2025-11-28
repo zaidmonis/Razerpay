@@ -5,3 +5,4 @@ node_modules
 dist
 screenshot.png
 npm-debug.log*
+package-lock.json
